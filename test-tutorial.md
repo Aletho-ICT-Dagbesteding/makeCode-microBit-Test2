@@ -1,7 +1,7 @@
-# test-tutorial @showdialog
+# test-tutorial
 Dit is een test markdown file, om te kijken of die in tutorial modus opent.
 
-## Stap 1
+## Stap 1 @showdialog
 Dit is stap 1. Plaats ``||basic:show string||`` in ``||basic:on start||``.
 
 ```blocks
