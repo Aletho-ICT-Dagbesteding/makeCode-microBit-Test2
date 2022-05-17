@@ -12,7 +12,7 @@
         "README.md",
         "main.blocks",
         "main.ts",
-        "test-maqueen-tutorial.md"
+        "test-tutorial.md"
     ],
     "testFiles": [
         "test.ts"
