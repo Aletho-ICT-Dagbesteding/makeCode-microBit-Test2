@@ -1,1 +1,1 @@
-basic.showString("Hello!")
+maqueen.motorRun(maqueen.Motors.All, maqueen.Dir.CW, 100)
