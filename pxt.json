@@ -12,7 +12,6 @@
         "README.md",
         "main.blocks",
         "main.ts",
-        "test-tutorial.md",
         "test-maqueen-tutorial.md"
     ],
     "testFiles": [
