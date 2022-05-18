@@ -14,7 +14,8 @@
         "main.ts",
         "test-tutorial.md",
         "tutorial-info-cache.json",
-        "maqueen-test.md"
+        "maqueen-test.md",
+        "introductie.md"
     ],
     "testFiles": [
         "test.ts"
