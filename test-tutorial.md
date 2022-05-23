@@ -1,5 +1,6 @@
 # test-tutorial
 Dit is een test HENK file, om te kijken of die in tutorial modus opent.
+Meer henk
 
 ## Stap 1 @showdialog
 Dit is stap 1. Plaats ``||basic:show string||`` in ``||basic:on start||``.
