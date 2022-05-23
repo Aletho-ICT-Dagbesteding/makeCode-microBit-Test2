@@ -9,7 +9,7 @@ basic.showString("Hello!")
 ```
 
 ## Stap 2
-Dit is stap 2.
+Dit is stap 2. met HENK
 
 ## Afsluiting
 Het is klaar.
